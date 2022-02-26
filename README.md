@@ -16,4 +16,12 @@ Animation
     <img src="https://github.com/chiragjasani/animation-stars-slide-from-the-bottom-to-the-top-/blob/main/images/image1.png" height="250" width="500" />
 </div>
 
+ Progress the animation by moving the stars based on the elapsed time
+ @param deltaMs time delta since the last frame, in millis
+ 
+Initialize the given star by randomizing it's position, scale and alpha
+@param star the star to initialize
+@param viewWidth the view width
+@param viewHeight the view height
 
+Enjoy with smart animation with <b>continuous moving stars</b>   
