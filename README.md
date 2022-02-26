@@ -1,4 +1,4 @@
-# animation-stars-slide-from-the-bottom-to-the-top
+# Animation Stars Slide From The Bottom To The Top
 Animation
   stars slide from the bottom to the top
   
